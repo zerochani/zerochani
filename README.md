@@ -54,16 +54,17 @@
   <a href="https://github.com/zerochani">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=zerochani&show_icons=true&theme=buefy&card_width=300"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zerochani&show_icons=true&theme=buefy"
     />
   </a>
 
   <a href="https://github.com/zerochani?tab=repositories">
     <img
       height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=zerochani&layout=compact&langs_count=8&card_width=300"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zerochani&layout=compact&langs_count=8"
     />
   </a>
 </div>
+
 
     
